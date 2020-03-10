@@ -18,6 +18,6 @@ Errors must be dealt with and must display the appropriate message on the error 
 80.4% moulinette Epitech
 
 ### Coverage
-52% branches
-99.9% lines
+52% branches  
+99.9% lines  
 (my_printf coverage)
